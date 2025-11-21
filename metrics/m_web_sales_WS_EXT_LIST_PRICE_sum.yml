@@ -1,0 +1,7 @@
+unique_name: m_web_sales_WS_EXT_LIST_PRICE_sum
+object_type: metric
+label: Ws Ext List Price - DG
+description: 'Daniel '
+calculation_method: sum
+column: WS_EXT_LIST_PRICE
+dataset: web_sales
