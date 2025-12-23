@@ -1,4 +1,4 @@
 unique_name: Average Web Unit Net Profit
 object_type: metric_calc
-label: Average Web Unit Net Profit - DG
-expression: "[Measures].[Store Net Profit]/[Measures].[Store Quantity Sold]"
+label: Average Web Unit Net Profit
+expression: '[Measures].[Store Net Profit]/[Measures].[Store Quantity Sold]'

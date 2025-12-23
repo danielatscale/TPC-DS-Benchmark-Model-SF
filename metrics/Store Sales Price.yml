@@ -1,6 +1,6 @@
 unique_name: Store Sales Price
 object_type: metric
-label: Store Sales Price - DG
+label: Store Sales Price
 calculation_method: sum
 column: SS_SALES_PRICE
 dataset: store_sales
